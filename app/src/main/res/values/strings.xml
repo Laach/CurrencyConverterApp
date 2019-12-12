@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="inputHint">0</string>
+    <string name="outputHint">0</string>
+    <string name="rates">Conversion rates</string>
+    <string-array name="currencyArray">
+        <item>EUR</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>KRW</item>
+    </string-array>
+</resources>
